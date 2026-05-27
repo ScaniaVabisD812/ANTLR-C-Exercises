@@ -1,0 +1,17 @@
+C:\Users\arvid\OneDrive\Systemutveckling\ANTLR parser\AntlrCSharp\obj\Debug\net10.0\AntlrCSharp.csproj.AssemblyReference.cache
+C:\Users\arvid\OneDrive\Systemutveckling\ANTLR parser\AntlrCSharp\obj\Debug\net10.0\AntlrCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arvid\OneDrive\Systemutveckling\ANTLR parser\AntlrCSharp\obj\Debug\net10.0\AntlrCSharp.AssemblyInfoInputs.cache
+C:\Users\arvid\OneDrive\Systemutveckling\ANTLR parser\AntlrCSharp\obj\Debug\net10.0\AntlrCSharp.AssemblyInfo.cs
+C:\Users\arvid\OneDrive\Systemutveckling\ANTLR parser\AntlrCSharp\obj\Debug\net10.0\AntlrCSharp.csproj.CoreCompileInputs.cache
+C:\Users\arvid\OneDrive\Systemutveckling\ANTLR parser\AntlrCSharp\bin\Debug\net10.0\AntlrCSharp.exe
+C:\Users\arvid\OneDrive\Systemutveckling\ANTLR parser\AntlrCSharp\bin\Debug\net10.0\AntlrCSharp.deps.json
+C:\Users\arvid\OneDrive\Systemutveckling\ANTLR parser\AntlrCSharp\bin\Debug\net10.0\AntlrCSharp.runtimeconfig.json
+C:\Users\arvid\OneDrive\Systemutveckling\ANTLR parser\AntlrCSharp\bin\Debug\net10.0\AntlrCSharp.dll
+C:\Users\arvid\OneDrive\Systemutveckling\ANTLR parser\AntlrCSharp\bin\Debug\net10.0\AntlrCSharp.pdb
+C:\Users\arvid\OneDrive\Systemutveckling\ANTLR parser\AntlrCSharp\bin\Debug\net10.0\Antlr4.Runtime.Standard.dll
+C:\Users\arvid\OneDrive\Systemutveckling\ANTLR parser\AntlrCSharp\obj\Debug\net10.0\AntlrCSh.17F4D0D3.Up2Date
+C:\Users\arvid\OneDrive\Systemutveckling\ANTLR parser\AntlrCSharp\obj\Debug\net10.0\AntlrCSharp.dll
+C:\Users\arvid\OneDrive\Systemutveckling\ANTLR parser\AntlrCSharp\obj\Debug\net10.0\refint\AntlrCSharp.dll
+C:\Users\arvid\OneDrive\Systemutveckling\ANTLR parser\AntlrCSharp\obj\Debug\net10.0\AntlrCSharp.pdb
+C:\Users\arvid\OneDrive\Systemutveckling\ANTLR parser\AntlrCSharp\obj\Debug\net10.0\AntlrCSharp.genruntimeconfig.cache
+C:\Users\arvid\OneDrive\Systemutveckling\ANTLR parser\AntlrCSharp\obj\Debug\net10.0\ref\AntlrCSharp.dll

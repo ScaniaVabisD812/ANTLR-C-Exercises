@@ -1,0 +1,15 @@
+NUMBER=1
+PLUS=2
+MINUS=3
+MULT=4
+DIV=5
+PARO=6
+PARC=7
+WHITESPACE=8
+NEWLINE=9
+'+'=2
+'-'=3
+'*'=4
+'/'=5
+'('=6
+')'=7

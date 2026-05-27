@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vWjHf8L3aVg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arvid\\OneDrive\\Systemutveckling\\ANTLR parser\\AntlrCSharp\\AntlrCSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arvid\\.nuget\\packages\\antlr4.runtime.standard\\4.13.1\\antlr4.runtime.standard.4.13.1.nupkg.sha512"
+  ],
+  "logs": []
+}
